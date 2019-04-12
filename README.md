@@ -1,2 +1,2 @@
 # Kaggle
-My attempts at kaggling competitions
+My attempts at kaggle competitions
